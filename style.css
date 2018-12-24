@@ -1,0 +1,76 @@
+li
+{
+   display: block;
+    padding-top: 20px;
+}
+footer
+{
+    text-align: center;
+    clear: both;
+    background-color: #ff8000;
+    color: bisque;
+    text-transform: uppercase;
+}
+aside
+{
+    float: right;
+    width: 20%;
+}
+article
+{
+    padding: 10px;
+    float: left;
+    width: 70%;
+}
+body
+{
+    font-family: 'Roboto' sans-serif;
+}
+header 
+{
+    /*background-color: blue;*/
+    background:url("page1.jpg") no-repeat center ;
+    text-align: center;
+    padding: 1%;
+    width:100%;
+}
+.mainimage
+{
+    background:url("page1.jpg") no-repeat center;
+}
+.aboutusimage
+{
+    background:url("foto1.jpg") no-repeat center;
+}
+.contactusimage
+{
+    background:url("page3.jpg") no-repeat center;
+}
+nav
+{
+    color: red;
+    background-color: orange;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    position: fixed;
+    width:100%;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+    padding: 40px;
+    font-size: 20px;
+}
+a:hover
+{
+    color: red;
+}
+h1
+{
+    color: royalblue;
+    font-size: 2px 2px rgba(255, 255, 255, 0.88);
+    text-transform: uppercase;
+    font-size: 160px;
+}
